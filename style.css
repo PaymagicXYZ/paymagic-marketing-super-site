@@ -1142,7 +1142,7 @@ pre {
     border-top: none !important; }
   .super-content .notion-collection-gallery.large {
     grid-template-columns: repeat(2, 1fr) !important;
-    margin-top: 3rem !important;
+    margin-top: 0rem !important;
     margin-bottom: 3rem !important;
     padding-bottom: 6.5rem !important;
     border-bottom: 1px solid rgba(247, 246, 251, 0.1) !important;
