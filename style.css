@@ -1155,6 +1155,7 @@ pre {
         margin-top: 0 !important;
         grid-template-columns: repeat(1, 1fr) !important; } }
     .super-content .notion-collection-gallery.large .notion-collection-card {
+      height: min-content !important;
       box-shadow: none !important;
       border-radius: 0.5rem !important;
       transition: -webkit-transform 450ms !important;
