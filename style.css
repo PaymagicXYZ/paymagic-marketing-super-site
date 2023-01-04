@@ -1303,6 +1303,14 @@ pre {
         padding-bottom: 1.75rem !important;
         padding-left: 1.25rem !important;
         padding-right: 1.25rem !important; }
+      .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__text {
+        padding-bottom: 1.75rem !important;
+        padding-left: 1.25rem !important;
+        padding-right: 1.25rem !important; }
+      .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__url {
+        padding-bottom: 1.75rem !important;
+        padding-left: 1.25rem !important;
+        padding-right: 1.25rem !important; }
   .super-content span.date {
     color: rgba(247, 246, 251, 0.25) !important;
     font-size: 0.925rem !important;
