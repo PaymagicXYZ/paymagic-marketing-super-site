@@ -1291,8 +1291,7 @@ pre {
         font-size: 1.25rem !important;
         padding-top: 2.5rem !important;
         padding-left: 1.25rem !important;
-        padding-right: 1.25rem !important;
-        padding-bottom: 1rem !important; }
+        padding-right: 1.25rem !important; }
         .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__title .notion-semantic-string {
           white-space: normal !important;
           line-height: 1.35 !important; }
@@ -1305,12 +1304,16 @@ pre {
         padding-right: 1.25rem !important; }
       .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__text {
         font-size: 1rem !important;
-        padding-bottom: 1.75rem !important;
+        padding-bottom: .25rem !important;
         padding-left: 1.25rem !important;
         padding-right: 1.25rem !important; }
       .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__url {
         font-size: .75rem !important;
-        padding-bottom: 1.75rem !important;
+        padding-bottom: .25rem !important;
+        padding-left: 1.25rem !important;
+        padding-right: 1.25rem !important; }
+      .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__select {
+        padding-bottom: .25rem !important;
         padding-left: 1.25rem !important;
         padding-right: 1.25rem !important; }
   .super-content span.date {
