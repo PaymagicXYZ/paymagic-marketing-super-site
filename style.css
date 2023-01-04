@@ -1304,10 +1304,12 @@ pre {
         padding-left: 1.25rem !important;
         padding-right: 1.25rem !important; }
       .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__text {
+        font-size: 1rem !important;
         padding-bottom: 1.75rem !important;
         padding-left: 1.25rem !important;
         padding-right: 1.25rem !important; }
       .super-content .notion-collection-gallery.medium .notion-collection-card .notion-property__url {
+        font-size: .75rem !important;
         padding-bottom: 1.75rem !important;
         padding-left: 1.25rem !important;
         padding-right: 1.25rem !important; }
